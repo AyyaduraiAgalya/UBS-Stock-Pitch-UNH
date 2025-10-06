@@ -79,14 +79,8 @@ UnitedHealth Group remains a high-quality compounder in the healthcare sector, w
 ---
 
 ## Files in This Repository
-- `UNH_DCF_Model.xlsx` — full DCF model with assumptions, WACC, and forecast drivers  
-- `UNH_Comps_Analysis.xlsx` — peer comparison with EV/EBITDA and EV/Revenue multiples  
-- `UNH_Stock_Pitch_Thesis.pdf` — final written pitch submitted for the UBS competition  
-
----
-
-## Competition Note
-This submission was part of the **UBS Global Stock Pitch Competition (2025)**, focusing on analytical rigor, clarity of valuation assumptions, and investment conviction.
+- `UNH_Valuation_Model.xlsx` — integrated financial model containing both DCF and Comparable Company Analysis (Comps), with detailed assumptions, WACC calculation, and forecast drivers.
+- `UNH_Stock_Pitch_Thesis.pdf` — final written investment thesis and recommendation submitted for the UBS Stock Pitch Competition 2025.
 
 ---
 
