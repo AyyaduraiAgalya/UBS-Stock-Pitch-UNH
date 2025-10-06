@@ -1,7 +1,7 @@
 # UBS Stock Pitch Competition — UnitedHealth Group (UNH)
 
 **Author:** Agalya Ayyadurai  
-**Date:** September 2025  
+**Submission Date:** 25 September 2025  
 **Role:** Graduate Student, MSc Financial Data Science  
 **Objective:** Valuation-based investment pitch submission for the UBS Stock Pitch Competition 2025
 
