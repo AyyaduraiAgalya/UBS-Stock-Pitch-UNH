@@ -21,7 +21,7 @@ The goal was to determine the intrinsic value of UNH using both **Discounted Cas
 
 | Metric | Value |
 |:--|:--|
-| **Current Share Price** | $350.67 |
+| **Current Share Price (25/09/2025)** | $350.67 |
 | **Target Price (DCF)** | $525.82 |
 | **Upside Potential** | +49.9% |
 | **Recommendation** | **BUY** |
